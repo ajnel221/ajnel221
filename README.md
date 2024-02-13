@@ -2,6 +2,16 @@
 
 ## Game Developer / Software Developer / Software Engineer / 3D Artist
 
+<br>
+
+### About Me 🤔
+I am a versatile and results-driven Software Developer with a proven track record in developing innovative software solutions to address diverse organizational needs. With a background encompassing the creation of immersive VR simulators, streamlined game development tools, and comprehensive in-house software applications, I bring a wealth of experience in blending creativity with technical expertise.
+
+My proficiency spans the development of intricate systems such as Inventory Management, Financial Software, and Data Dashboards interfacing with Programmable Logic Controllers. Recognized for the successful deployment of cutting-edge technologies, I am adept at translating complex requirements into intuitive and user-friendly solutions.
+
+My commitment to driving operational efficiency and fostering collaborative environments positions me as a valuable
+contributor to forward-thinking teams seeking impactful technological solutions.
+
 ### Languages
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
@@ -32,8 +42,11 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
 <img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">
 <img align="left" alt="IOS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg">
+<br>
 
-          
+### How to reach me 📫
+* Email: ajnel221@gmail.com
+* Mobile: (+27) 72 113 2830
 
 <!--
 **ajnel221/ajnel221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
