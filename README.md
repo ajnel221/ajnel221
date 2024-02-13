@@ -1,4 +1,6 @@
-### Hi there 👋
+# Johan Nel 👋
+
+** 'Game Developer / Software Developer / Software Engineer / 3D Artist' **
 
 <!--
 **ajnel221/ajnel221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
