@@ -1,6 +1,9 @@
 # Johan Nel 👋
 
-**'Game Developer / Software Developer / Software Engineer / 3D Artist'**
+## Game Developer / Software Developer / Software Engineer / 3D Artist
+
+### Languages and Tools
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
 
 <!--
 **ajnel221/ajnel221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
