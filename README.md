@@ -2,8 +2,6 @@
 
 ## Game Developer / Software Developer / Software Engineer / 3D Artist
 
-<br>
-
 ### About Me 🤔
 I am a versatile and results-driven Software Developer with a proven track record in developing innovative software solutions to address diverse organizational needs. With a background encompassing the creation of immersive VR simulators, streamlined game development tools, and comprehensive in-house software applications, I bring a wealth of experience in blending creativity with technical expertise.
 
